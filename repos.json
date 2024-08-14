@@ -1,9 +1,9 @@
 [  {
     "kernelSource": {
-      "name": "miku-KernelSU",
-      "repo": "https://github.com/PhamtomK12/kernel_xiaomi_odin",
-      "branch": "TDA",
-      "device": "odin"
+      "name": "raphael-KernelSU",
+      "repo": "https://github.com/Laulan56/android_kernel_xiaomi_sm8150",
+      "branch": "miui",
+      "device": "raphael"
     },
     "withKernelSU": true,
     "toolchains": [
